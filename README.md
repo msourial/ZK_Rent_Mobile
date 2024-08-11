@@ -20,3 +20,15 @@ RentHub is a cutting-edge decentralized platform that redefines peer-to-peer ren
 - **Dispute Resolution:** AI-driven inspections and blockchain records reduce the chances of disputes and provide a clear resolution path if they arise.
 - **Revenue Generation:** The collateral pool not only secures transactions but also generates interest, providing revenue for the platform.
 
+## eSTARK Verifier
+
+The `eSTARK-Verifier` directory contains our implementation of a rental agreement verification system using the eSTARK Verifier framework for the Polygon ecosystem.
+
+### Key Features:
+- Signature verification
+- Date validation
+- Rental amount validation
+- Batch processing of multiple agreements
+- Proof aggregation
+
+For more details, see the `eSTARK-Verifier/rental_agreement_verifier.pil` file.
