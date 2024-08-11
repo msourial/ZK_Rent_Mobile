@@ -1,4 +1,4 @@
-# RentGuard
+# ZK_RentGuard
 
 **Tagline:** Revolutionizing Peer-to-Peer Rentals with Blockchain and Zero-Knowledge Proofs
 
